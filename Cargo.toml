@@ -1,0 +1,14 @@
+[package]
+name = "minecraft_tunnel"
+version = "0.1.0"
+edition = "2024"
+authors = ["doprz"]
+description = "A terminal-based Minecraft world renderer using DDA ray casting"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/doprz/minecraft_tunnel"
+keywords = ["minecraft", "ray-casting", "terminal"]
+
+
+[dependencies]
+crossterm = "0.29.0"
+fastrand = "2.3.0"

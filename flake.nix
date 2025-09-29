@@ -1,5 +1,5 @@
 {
-  description = "A terminal-based Minecraft world renderer using DDA ray casting";
+  description = "A terminal-based Minecraft voxel tunnel renderer using DDA ray casting";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";

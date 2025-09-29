@@ -1,5 +1,7 @@
 # minecraft_tunnel
 
+[![crates.io](https://img.shields.io/crates/v/minecraft_tunnel)](https://crates.io/crates/minecraft_tunnel)
+
 A terminal-based Minecraft voxel tunnel renderer using DDA ray casting.
 
 ## Features

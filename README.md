@@ -4,6 +4,8 @@
 
 A terminal-based Minecraft voxel tunnel renderer using DDA ray casting.
 
+![minecraft_tunnel](./assets/minecraft_tunnel.gif)
+
 ## Features
 
 - Real-time procedural voxel rendering in your terminal
